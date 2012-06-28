@@ -14,9 +14,9 @@ PAS-LAND の設定集
 ==================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    
-   anno_domini
-   super_splash
-   beansic_period
-   rounsic_period
+   anno_domini/index
+   super_splash/index
+   beansic_period/index
+   rounsic_period/index
