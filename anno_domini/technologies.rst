@@ -4,13 +4,13 @@
 .. toctree::
   :maxdepth: 2
 
-  technology/vui
-  technology/tup
-  technology/rid
-  technology/myi
-  technology/sss
-  technology/sfv
-  technology/fst
-  technology/snapshot
-  technology/iac
-  technology/eternal_youth
+  technologies/vui
+  technologies/tup
+  technologies/rid
+  technologies/myi
+  technologies/sss
+  technologies/sfv
+  technologies/fst
+  technologies/snapshot
+  technologies/iac
+  technologies/eternal_youth
