@@ -1,0 +1,13 @@
+.. blockdiag::
+
+  blockdiag {
+    orientation = portrait
+    SF [label = "Sellarias's Father (Bean)"]
+    SM [label = "Sellarias's Mother (Roun)"]
+    BF [label = "Bellarth's Father (Roun)"]
+    KM [label = "Arkern's Mother (Bean)"]
+    SF, SM -> Sellarias
+    Arkern<- SF, KM
+    BF, Sellarias -> Bellarth
+    Bellarth, Phrerado -> Ardella
+  }

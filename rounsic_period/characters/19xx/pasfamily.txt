@@ -1,0 +1,8 @@
+.. blockdiag::
+
+  blockdiag {
+    orientation = portrait
+    Watolorn, Pasmmarth -> Pastolorth
+    "Arbern II", Pastolorth -> Pasberth
+    Pasberth -> Pasthaur
+  }
