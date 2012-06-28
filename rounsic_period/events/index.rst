@@ -4,5 +4,5 @@
 .. toctree::
   :maxdepth: 2
 
-  events/three_war
-  events/2nd_three_war
+  three_war
+  2nd_three_war

@@ -7,10 +7,10 @@
 .. toctree::
   :maxdepth: 1
 
-  characters/18xx/dollias
-  characters/18xx/bellarth
-  characters/18xx/ardella
-  characters/18xx/luna
+  18xx/dollias
+  18xx/bellarth
+  18xx/ardella
+  18xx/luna
 
 ルン紀1900年代の登場キャラクター
 ----------------------------------
@@ -18,7 +18,7 @@
 .. toctree::
   :maxdepth: 1
 
-  characters/19xx/pastolorth
-  characters/19xx/feem
-  characters/19xx/pasberth
-  characters/19xx/pasthaur
+  19xx/pastolorth
+  19xx/feem
+  19xx/pasberth
+  19xx/pasthaur

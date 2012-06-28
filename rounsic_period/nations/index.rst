@@ -8,8 +8,8 @@
 .. toctree::
   :maxdepth: 2
 
-  nations/rounia/holy_rounia
-  nations/rounia/othodox_rounia
+  rounia/holy_rounia
+  rounia/othodox_rounia
 
 ベアンシス
 -------------
@@ -17,4 +17,4 @@
 .. toctree::
   :maxdepth: 2
 
-  nations/beancis/ulb
+  beancis/ulb
