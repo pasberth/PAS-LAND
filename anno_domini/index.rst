@@ -4,6 +4,6 @@
 .. toctree::
   :maxdepth: 3
 
-  characters
-  species
-  technologies
+  characters/index
+  species/index
+  technologies/index
