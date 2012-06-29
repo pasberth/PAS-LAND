@@ -4,4 +4,5 @@
 .. toctree::
   :maxdepth: 2
 
-  species/iris
+  iris
+  tri
