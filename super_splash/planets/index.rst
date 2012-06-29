@@ -3,4 +3,5 @@
 
 .. toctree::
 
-  planets/iris
+  iris
+  tri
