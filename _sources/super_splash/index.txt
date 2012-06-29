@@ -7,5 +7,5 @@
 .. toctree::
   :maxdepth: 3
 
-  species
-  planets
+  species/index
+  planets/index
