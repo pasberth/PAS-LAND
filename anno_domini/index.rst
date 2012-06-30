@@ -7,3 +7,4 @@
   characters/index
   species/index
   technologies/index
+  events/index
