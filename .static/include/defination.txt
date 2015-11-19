@@ -1,5 +1,0 @@
-..
-  WARNING
-  ALL REST FILES WILL INCLUDE defination.txt.
-
-.. include:: /.static/include/replacement.txt
